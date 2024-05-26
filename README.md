@@ -20,7 +20,7 @@ chmod -R 777 bot-tut-20240526
 
 ## webhook url
 ```
-https://www.48v.me/~あなた/cgi-bin/bot-tut-20240526/webhook.py
+https://www.48v.me/~あなた/cgi-bin/bot-tut-20240526/scripts/webhook.py
 ```
 
 ## 詳細
